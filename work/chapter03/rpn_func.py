@@ -5,6 +5,14 @@ RPN_FUNCTOINS = {
     "sin": math.sin,
     "cos": math.cos,
     "tan": math.tan,
+    "ceil": math.ceil,
+    "floor": math.floor,
+    "round": round,
+    "sqrt": math.sqrt,
+    "fabs": math.fabs,
+    "exp": math.exp,
+    "log": math.log,
+    "log10": math.log10,
 }
 # 演算子を辞書で定義
 RPN_OPERATORS = {
