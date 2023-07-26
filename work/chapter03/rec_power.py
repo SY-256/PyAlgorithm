@@ -14,4 +14,4 @@ def test_power():
 
 
 if __name__ == "__main__":
-    print(power(2, 0))
+    print(power(2, 8))
